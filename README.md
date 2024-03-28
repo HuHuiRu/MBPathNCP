@@ -28,4 +28,4 @@ wknkn.py：The source code for the WKNKN (Weighted K Nearest Known Neighbors) al
 
 ## Quick start
 
-Run main.py to Run MBPathNCP
+Run main.py to run MBPathNCP
