@@ -22,10 +22,10 @@ GIP_gate.py：The source code for the GIP (Gaussian Interaction Profile) kernel 
 wknkn.py：The source code for the WKNKN (Weighted K Nearest Known Neighbors) algorithm. 
 
 ## Requirements
-- python = 3.9
-- pandas = 1.5.1
-- numpy = 1.24.2
-
+- python = 3.9.19
+- pandas = 2.2.1
+- numpy = 1.26.4
+- scikit-learn = 1.4.1
 ## Quick start
 
 Run main.py to run MBPathNCP
