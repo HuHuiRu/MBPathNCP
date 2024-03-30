@@ -1,5 +1,6 @@
 # MBPathNCP
 
+The MBPathNCP is designed for the prediction of metabolic pathways of chemicals and enzymes. The kernels for chemicals/enzymes and pathways were constructed using the interactions of chemicals and proteins, and the validated associations between chemicals/enzymes and pathways. The network consistency projection was applied to the kernels and association adjacency matrix to yield the association score for each pair of chemicals/enzymes and pathways.
 ![model](./model.jpg)
 
 ## Datasets
