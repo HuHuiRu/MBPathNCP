@@ -16,9 +16,9 @@ The 'Data' folder contains the raw used in MBPathNCP.Their specific sources are 
 - chemical_enzyme_interactions/3427CPC_net.csv: The association between 2329 chemicals and 1098 enzymes.
 
 ## GIP
-consistency_projection.py：The source code for the NCP (Network Consistency Projection) algorithm.
-## NCP
 GIP_gate.py：The source code for the GIP (Gaussian Interaction Profile) kernel similarity algorithm.
+## NCP
+consistency_projection.py：The source code for the NCP (Network Consistency Projection) algorithm.
 ## WKNKN
 wknkn.py：The source code for the WKNKN (Weighted K Nearest Known Neighbors) algorithm. 
 
